@@ -1,5 +1,5 @@
 {
-  "name": "@web3auth/ui",
+  "name": "@auth/ui",
   "version": "6.0.1-alpha.0",
   "description": "Ui modal for web3Auth",
   "keywords": [
@@ -16,7 +16,7 @@
   "jsdelivr": "dist/ui.umd.min.js",
   "types": "dist/dist/types/index.d.ts",
   "author": "Torus Labs",
-  "homepage": "https://github.com/Web3Auth/Web3Auth/tree/master/packages/ui#readme",
+  "homepage": "https://github.com/jordiamez/web3auth/tree/master/packages/ui#readme",
   "license": "ISC",
   "scripts": {
     "test": "mocha --config ../../.mocharc.json test/**.ts",
@@ -94,10 +94,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Web3Auth/Web3Auth.git"
+    "url": "git+https://github.com/jordiamez/web3auth.git"
   },
   "bugs": {
-    "url": "https://github.com/Web3Auth/Web3Auth/issues"
+    "url": "https://github.com/jordiamez/web3auth/issues"
   },
   "engines": {
     "node": ">=16.18.1",

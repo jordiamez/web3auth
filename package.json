@@ -2,14 +2,7 @@
   "name": "web3auth",
   "private": true,
   "workspaces": [
-    "packages/base",
-    "packages/modal",
-    "packages/no-modal",
-    "packages/adapter-factory",
-    "packages/ui",
-    "packages/providers/*",
-    "packages/adapters/*",
-    "packages/plugins/*"
+    "packages/ui"
   ],
   "description": "Monorepo for web3 auth packages",
   "scripts": {
@@ -65,7 +58,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Web3Auth/Web3Auth.git"
+    "url": "git+https://github.com/jordiamez/web3auth.git"
   },
   "keywords": [
     "web3",
@@ -84,9 +77,9 @@
   "author": "Torus Labs",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Web3Auth/Web3Auth/issues"
+    "url": "https://github.com/jordiamez/web3auth/issues"
   },
-  "homepage": "https://github.com/Web3Auth/Web3Auth#readme",
+  "homepage": "https://github.com/jordiamez/web3auth#readme",
   "engines": {
     "node": ">=16.18.1",
     "npm": ">=8.x"
